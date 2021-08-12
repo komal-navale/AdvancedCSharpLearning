@@ -1,0 +1,7 @@
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\Generics\bin\Debug\Generics.exe.config
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\Generics\bin\Debug\Generics.exe
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\Generics\bin\Debug\Generics.pdb
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\Generics\obj\Debug\Generics.exe
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\Generics\obj\Debug\Generics.pdb

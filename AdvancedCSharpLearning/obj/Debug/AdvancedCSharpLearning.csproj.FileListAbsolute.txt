@@ -1,0 +1,7 @@
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\AdvancedCSharpLearning\obj\Debug\AdvancedCSharpLearning.csprojAssemblyReference.cache
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\AdvancedCSharpLearning\obj\Debug\AdvancedCSharpLearning.csproj.CoreCompileInputs.cache
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\AdvancedCSharpLearning\bin\Debug\AdvancedCSharpLearning.exe.config
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\AdvancedCSharpLearning\bin\Debug\AdvancedCSharpLearning.exe
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\AdvancedCSharpLearning\bin\Debug\AdvancedCSharpLearning.pdb
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\AdvancedCSharpLearning\obj\Debug\AdvancedCSharpLearning.exe
+F:\Learning\Microsoft Visual Studio 2019\Projects\AdvancedCSharpLearning\AdvancedCSharpLearning\obj\Debug\AdvancedCSharpLearning.pdb
